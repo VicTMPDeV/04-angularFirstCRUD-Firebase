@@ -1,3 +1,12 @@
+Este proyecto es un pequeño CRUD muy básico implementado en Angular con conexión a base de datos mediante Firebase.
+
+Para poder ejecutarlo, desde la carpeta de proyecto (pokedex), ejecutar desde línea de comandos el siguiente comando del CLI de Angular:
+
+ng serve --o 
+
+(con --o abre directamente un navegador al puerto 4200 de localhost)
+
+
 # Tutorial
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.7.
